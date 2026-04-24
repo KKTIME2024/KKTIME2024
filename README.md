@@ -18,7 +18,7 @@
 
 <!-- Stats 卡片 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KKTIME2024&show_icons=true&theme=tokyonight&locale=zh" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KKTIME2024&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKTIME2024&layout=compact&theme=tokyonight&locale=zh" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKTIME2024&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
