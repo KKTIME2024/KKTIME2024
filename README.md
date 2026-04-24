@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KKTIME2024theme=github-dark" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KKTIME2024&theme=github-dark" alt="Streak" />
 </p>
 
 <p align="center">
@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KKTIME2024theme=github-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KKTIME2024&theme=github-dark" alt="Activity Graph" />
 </p>
