@@ -18,15 +18,15 @@
 
 <!-- Stats 卡片 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KKTIME2024&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KKTIME2024&show_icons=true&theme=github-dark" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KKTIME2024&theme=tokyonight&locale=zh" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KKTIME2024&theme=github-dark" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKTIME2024&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKTIME2024&layout=compact&theme=github-dark" alt="Top Langs" />
 </p>
 
 <p align="center">
