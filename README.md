@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K</h1>
 
 <p align="center">
-  Linux 桌面折腾爱好者 | KDE Plasma & i3wm 双修党<br>
+  Linux 折腾爱好者 | 面向LLM编程
   C++/Python/JS 全栈开发者
 </p>
 
