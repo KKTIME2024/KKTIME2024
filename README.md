@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KKTIME2024&theme=tokyonight" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KKTIME2024&theme=github-dark" alt="Activity Graph" />
 </p>
