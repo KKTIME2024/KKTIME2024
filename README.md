@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KKTIME2024&theme=github-dark" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KKTIME2024&theme=github-dark&locale=zh" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKTIME2024&layout=compact&theme=github-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKTIME2024&layout=compact&theme=github-dark&locale=zh" alt="Top Langs" />
 </p>
 
 <p align="center">
