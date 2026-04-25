@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K</h1>
+<h1 align="center">Hi 👋, I'm KK</h1>
 
 <p align="center">
   计科大三学生 | Linux 爱好者 | 面向LLM编程（） | 
